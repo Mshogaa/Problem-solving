@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1690393064 source:d:\my_project1\problem solving\chef and operators\main.cpp
+	<iostream>
+	<cctype>
+
