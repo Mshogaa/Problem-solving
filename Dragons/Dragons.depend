@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1712860398 source:d:\my_project1\problem solving\dragons\main.cpp
+	<iostream>
+	<vector>
+	<bits/stdc++.h>
+
