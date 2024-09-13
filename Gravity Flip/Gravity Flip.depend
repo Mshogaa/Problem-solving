@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1713078117 source:d:\my_project1\problem solving\gravity flip\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+
